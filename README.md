@@ -1,3 +1,19 @@
+# install the following modules:
+```
+npm install ora
+```
+```
+npm install figlet
+```
+```
+npm install prompt-sync
+```
+```
+npm install winston
+```
+```
+npm install fake-useragent
+```
 # Pharos Auto Bot
 
 [![Version](https://img.shields.io/badge/version-v1.0.0-blue)](https://github.com/Kazuha787/Pharos-Auto-Bot)
